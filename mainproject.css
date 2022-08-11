@@ -1,0 +1,16 @@
+.MainTitle{
+    font-size: xxx-large;
+    color: tan;
+    text-align: -webkit-center;
+}
+
+.MainSubTitle{
+    color:darkgrey;
+    text-align: -webkit-center;
+    margin: 0px;
+}
+
+.Layout{
+    display: inline-block;
+    font-size: x-large;
+}
