@@ -11,6 +11,12 @@
 }
 
 .Layout{
-    display: inline-block;
+    float: left;
     font-size: x-large;
+    padding-right: 60px;
+}
+
+.p{    
+    margin-top: 60px;
+    float: right;
 }
