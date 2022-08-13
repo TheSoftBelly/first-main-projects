@@ -16,7 +16,7 @@
     padding-right: 60px;
 }
 
-.p{    
-    margin-top: 60px;
-    float: right;
+p {    
+    display: inline-block;
+    padding-top: 60px;
 }
